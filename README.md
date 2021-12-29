@@ -4,6 +4,8 @@ Tensorflow: https://github.com/huggingface/notebooks/blob/master/examples/text_c
 
 Code for SHAP from: 
 
+https://github.com/slundberg/shap/tree/master/notebooks/text_examples/sentiment_analysis
+
 https://github.com/slundberg/shap
 
 https://slundberg.github.io/shap/notebooks/deep_explainer/Keras%20LSTM%20for%20IMDB%20Sentiment%20Classification.html
