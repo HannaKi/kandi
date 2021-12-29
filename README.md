@@ -1,5 +1,7 @@
 Code for training the transformers model adapted from Hugging Face notebook https://colab.research.google.com/github/huggingface/notebooks/blob/master/examples/text_classification.ipynb
 
+Tensorflow: https://github.com/huggingface/notebooks/blob/master/examples/text_classification-tf.ipynb
+
 Code for SHAP from: 
 
 https://github.com/slundberg/shap
